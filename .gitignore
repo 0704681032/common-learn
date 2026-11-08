@@ -1,0 +1,11 @@
+# Build artifacts
+cat/images/_src/chrome.log
+cat/images/_src/chrome-profile/
+
+# Dependencies
+node_modules/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
